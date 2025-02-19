@@ -1,5 +1,11 @@
-d 'DEA': Data envelopment analysis
+d 'ldtest': Consistent Nonparametric Tests of Lorenz Dominance with individual level data: Independent Random Sampling Use ldtest With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f emplorenz.mo
+f ldbootpvalue4.mo
+f ldbootpvaluemp.mo
+f ldtest.ado
+f ldtest.sthlp
+f ldtestmp.ado
+f ldtestmp.sthlp
+f lorintegration.mo
+f lorinterpol.mo
