@@ -1,6 +1,8 @@
 # ldtest
 Consistent Nonparametric Tests of Lorenz Dominance with individual level data: Independent Random Sampling Use ldtest With STATA 18
 
+https://www.youtube.com/watch?v=4qUPXYfSVdQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
